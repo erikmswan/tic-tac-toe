@@ -4,4 +4,4 @@ An unfinished tic-tac-toe game. It will ultimately have both a local multiplayer
 
 Made in pure JavaScript -- no jQuery was used. This was done mostly for practice, but it also eliminates dependencies.
 
-I'm especially proud of the responsiveness of this web app! It will fit any window size (within reason) with a scalability that beats pure CSS3 media queries. 
+I'm especially proud of the responsiveness of this web app! It will fit any window size (within reason).
